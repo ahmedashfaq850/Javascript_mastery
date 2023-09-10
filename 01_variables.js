@@ -1,4 +1,4 @@
-const num = 45   // control + / for commenting the code
+const num = 45   // control + slash key / => for commenting the code
 
 let name = 'ahmed'
 
